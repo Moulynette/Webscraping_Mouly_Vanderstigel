@@ -17,6 +17,7 @@ https://fr.boohoo.com/
 
 
 Pour utiliser l'API, il suffit de lancer le script en local:
+
 1-Ouvrir un invité de commande et se placer dans le répertoire du code
 2-pip install "uvicorn[standard]"  
 3-pip install fastapi   
