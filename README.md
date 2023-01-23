@@ -27,4 +27,4 @@ Pour utiliser l'API, il suffit de lancer le script en local:
 
 4-python -m uvicorn api:app --reload
 
-5-Se rednre sur : http://127.0.0.1:8000/docs pour visualiser nos use cases
+5-Se rendre sur : http://127.0.0.1:8000/docs pour visualiser nos use cases
