@@ -16,10 +16,15 @@ https://fr.shein.com/
 https://fr.boohoo.com/
 
 
+
 Pour utiliser l'API, il suffit de lancer le script en local:
 
 1-Ouvrir un invité de commande et se placer dans le répertoire du code
+
 2-pip install "uvicorn[standard]"
+
 3-pip install fastapi
+
 4-python -m uvicorn api:app --reload
+
 5-Se rednre sur : http://127.0.0.1:8000/docs pour visualiser nos use cases
